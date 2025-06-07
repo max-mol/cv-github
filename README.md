@@ -67,14 +67,14 @@ _React, Typescript_
 
 ### Web applications - Extended Spotify
 
-1. First version (not maintained) https://github.com/max-mol/spotify-vue\
+1. First version (not maintained) https://github.com/max-mol/spotify-vue \
    [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)
    [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 2. Second version (not maintained) https://github.com/max-mol/my-spotify\
    ![Static Badge](https://img.shields.io/badge/React-%230088CC?logo=react)
    [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
    ![Static Badge](https://img.shields.io/badge/Next.js-%23000000?logo=nextdotjs)
-3. Third version with Next.js https://github.com/max-mol/extended-spotify\
+3. Third version with Next.js https://github.com/max-mol/extended-spotify \
    ![Static Badge](https://img.shields.io/badge/React-%230088CC?logo=react)
    [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
    ![Static Badge](https://img.shields.io/badge/Next.js-%23000000?logo=nextdotjs)
