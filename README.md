@@ -63,7 +63,10 @@ Internship | Fixed-term contract\
 
 ### Web application - Tattoo appointment
 
-_React, Typescript_
+![Static Badge](https://img.shields.io/badge/React-%230088CC?logo=react)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
+[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)](#)
 
 ### Web applications - Extended Spotify
 
