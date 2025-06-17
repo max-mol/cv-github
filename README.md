@@ -1,4 +1,4 @@
-# **Maxime Molines Software Engineer**
+# **Maxime Molines - Software Engineer**
 
 # About me
 
